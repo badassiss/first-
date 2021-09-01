@@ -1,0 +1,82 @@
+                body {
+                    Font size: 16px;
+                    background-image: url(file:///C:/Users/PersoPc/Downloads/order-summary-component-main/images/pattern-background-desktop.svg);
+                    width: 1440px;
+                    background-color: hsl(225, 100%, 94%);
+                }
+                
+                header {
+                    padding: 50px 0px 0px 10px;
+                    margin: 0px 500px 0px 500px;
+                    border-radius: 25px;
+                }
+                
+                #all {
+                    background-color: white;
+                    padding: 10px 0px 0px 10px;
+                    margin: 0px 480px 0px 510px;
+                }
+                
+                #title {
+                    text-align: center;
+                    font-family: 'Red Hat Display', sans-serif;
+                    margin: 20px 10px 0px 10px;
+                }
+                
+                #description {
+                    Font size: 16px;
+                    text-align: center;
+                    margin: 0px 100px 10px 90px;
+                }
+                
+                #together {
+                    padding: 10px 10px 20px 0px;
+                    margin: 10px 20px 10px 30px;
+                    background-color: hsl(225, 100%, 98%);
+                    width: 350px;
+                    height: 60px;
+                }
+                
+                #x1 {
+                    padding: 0px 20px 0px 40px;
+                }
+                
+                #x2 {
+                    padding: 0px 20px 0px 0px;
+                }
+                
+                #x3 {
+                    padding: 10px 20px 30px 60px;
+                    margin: 0px 0px 0px 0px;
+                }
+                
+                #button {
+                    width: 300px;
+                    height: 40Px;
+                    background-color: hsl(245, 75%, 52%);
+                    color: white;
+                    box-shadow: 30px 10px 10px hsl(225, 100%, 94%);
+                }
+                
+                #butt {
+                    text-align: center;
+                    padding: 0px 0px 0px 0px;
+                    margin: 0px 0px 0px 0px;
+                }
+                
+                div {
+                    display: inline-block;
+                }
+                
+                footer {
+                    background-color: white;
+                    padding: 20px 50px 10px 50px;
+                    margin: 0px 480px 0px 510px;
+                    text-align: center;
+                    color: hsl(224, 9%, 39%);
+                    font-family: 'Red Hat Display', sans-serif;
+                }
+                
+                #cancel:link {
+                    text-decoration: none;
+                }
